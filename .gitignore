@@ -14,7 +14,10 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+[lL]ib/
+Scripts/
+Include/
+pyvenv.cfg
 lib64/
 parts/
 sdist/
